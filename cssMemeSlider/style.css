@@ -62,15 +62,4 @@ body{
   border: 0.2em solid #0F1C3F;
   border-color: rgb(2, 2, 2);
 }
-@media(max-width: 500px){
-  #slide-1, #slide-2,#slide-3,#slide-4{
-    width: 162vh;
-    height: 70vh;
-  }
-  .container{
-    padding: 0rem;
-  }
-  .slider-nav{
-    justify-content: center;
-  }
-}
+
